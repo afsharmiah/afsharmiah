@@ -7,7 +7,7 @@
 </h3>
 <br/>
 
-* I am working at Thomson Reuters as a React Front end developer
+* I am working at **Thomson Reuters** as a React Front end developer
 
 👯 I’m looking to collaborate on **Open source Project.**
 
