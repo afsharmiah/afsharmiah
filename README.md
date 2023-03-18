@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A Passionate Frontend Developer from Bangladesh <img style="vertical-align: bottom" src="https://img.freeflagicons.com/thumb/flag_background/bangladesh/bangladesh_640.png" width="25">
+  A Passionate Frontend Developer Live In New York <img style="vertical-align: bottom" src="https://img.freeflagicons.com/thumb/round_icon/united_states_of_america/united_states_of_america_640.png" width="25">
 </h3>
 <br/>
 
