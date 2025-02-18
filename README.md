@@ -6,9 +6,6 @@
   A Passionate QA Automation Engineer and I Live In New York <img style="vertical-align: bottom" src="https://img.freeflagicons.com/thumb/round_icon/united_states_of_america/united_states_of_america_640.png" width="25">
 </h3>
 <br/>
-<br/>
-<img src="./github banner.jpg" alt="github banner"/>
-<br/>
 
 * I am working at **Nasdaq Inc** as a QA Automation Test Engineer
 
